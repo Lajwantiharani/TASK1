@@ -78,13 +78,13 @@ input::placeholder {
 
 button {
     border: none;
-    width: 50px; /* Adjusted width */
-    height: 50px; /* Adjusted height */
-    margin: 5px; /* Adjusted margin */
+    width: 50px; 
+    height: 50px; 
+    margin: 5px;
     border-radius: 50%;
     background: transparent;
     color: #ffffff;
-    font-size: 18px; /* Adjusted font size */
+    font-size: 18px; 
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
     cursor: pointer;
 }
